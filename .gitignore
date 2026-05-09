@@ -1,5 +1,13 @@
 # Python
+# Database
+chat_history.db
+data/chat_history.db
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+
 *.py[cod]
 *$py.class
 

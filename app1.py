@@ -51,7 +51,7 @@ def store_message(session_id, user_query, agent_response):
         print(f"Error storing message: {e}")
 
 # --- Initialize Resources ---
-file_path = "jewaira.pdf" 
+file_path = "data/jewaira.pdf" 
 documents = []
 try:
     if os.path.exists(file_path):
